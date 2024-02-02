@@ -4,7 +4,7 @@
 
 ## Try it Live!
 
-Check out the live app [The React Quiz]()
+Check out the live app [The React Quiz](https://react-quiz-rouge.vercel.app/)
 
 ## How to Use
 
@@ -22,7 +22,7 @@ Answer every question correctlty before times end.
 1. Clone this repository.
 
     ```bash
-    git clone
+    git clone https://github.com/mahmoud-mohsen-dev/react-quiz.git
     ```
 
 2. Navigate to the Project Directory:
